@@ -33,5 +33,7 @@ qa-web-automation-framework/
 │ ├── testdata/ # External test data files
 
 │ └── config.properties # Configuration file
+
 ├── pom.xml
+
 └── .github/workflows/ # CI/CD pipeline
