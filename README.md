@@ -21,11 +21,17 @@ This repository contains a robust and maintainable automation framework built wi
 
 qa-web-automation-framework/
 ├── src/test/java
+
 │ ├── pages/ # Page Object classes
+
 │ ├── tests/ # Test classes
+
 │ └── utilities/ # Helper classes (e.g., WebDriver setup)
+
 ├── src/test/resources
+
 │ ├── testdata/ # External test data files
+
 │ └── config.properties # Configuration file
 ├── pom.xml
 └── .github/workflows/ # CI/CD pipeline
