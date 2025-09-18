@@ -19,29 +19,5 @@ This repository contains a robust and maintainable automation framework built wi
 
 ## Project Structure
 
-qa-web-automation-framework/
-├── pom.xml
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── qa/
-│   │   │           ├── config/
-│   │   │           │   └── ConfigReader.java
-│   │   │           ├── fpages/
-│   │   │           │   ├── BasePage.java
-│   │   │           │   └── LoginPage.java
-│   │   │           └── utils/
-│   │   │               └── DriverManager.java
-│   │   └── resources/
-│   │       └── config.properties
-│   └── test/
-│       ├── java/
-│       │   └── com/
-│       │       └── qa/
-│       │           ├── runners/
-│       │           │   └── TestRunner.java
-│       │           └── tests/
-│       │               └── LoginTest.java
-│       └── resources/
-└── target/
+<img width="721" height="530" alt="image" src="https://github.com/user-attachments/assets/9a49f8d3-58d7-4d7d-acb1-bc3cdc4f2766" />
+
